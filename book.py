@@ -1,4 +1,4 @@
-class Book:
+inside the class Book:
     def __init__(self,id,name,author):
         self.id=id
         self.name=name
@@ -15,4 +15,5 @@ class Book:
 mybook=Book(1,'Mahako ma','Madan Krishna Shrestha')
 print('The id of the book is {}'.format(mybook.getid()))
 print('The name of the book is {}'.format(mybook.getname()))
-print('The author of the book is {}'.format(mybook.getauthor()))
+print('The author of the book is {}'.format(mybook.getauthor()))broadway infosys 
+in tinkune,kathmandu
