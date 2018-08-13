@@ -1,0 +1,12 @@
+Name of the student is nita
+Address of the student is ktm
+Phone no is 5567888
+The student is studying mgmt. 
+Name of the student:sani
+sani lives in ktm
+Phone no is 5643223
+The student is studying science 
+Name of the student:sakira
+sakira lives in patan
+Phone no is 5554668
+The student is studying mgmt. 

@@ -1,0 +1,4 @@
+This is pycharm
+file handling in pycharm
+use of write in file handling
+use of append to append the text
